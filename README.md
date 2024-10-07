@@ -5,7 +5,7 @@ The following steps have been performed:
 Load the MNIST dataset.
 Normalize the pixel values between 0 and 1.
 Build a CNN with Convolutional layers.
-Include MaxPooling layers (2 marks).
+Include MaxPooling layers.
 Add Dense layers and the correct output layer with 10 neurons and softmax activation.
 Use the 'adam' optimizer.
 Set the loss function to 'categorical_crossentropy'.
